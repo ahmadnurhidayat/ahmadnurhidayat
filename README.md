@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Nurhidayat</h1>
-<h3 align="center">Highly motivated Cloud DevOps Engineer with 3 years of experience in designing, automating, and optimizing cloud infrastructure and deployment pipelines. Skilled in Cloud Computing, Containerization, Orchestration, CI/CD, Monitoring & Observability, Networking, and Virtualization. Proven track record in managing cloud platforms, streamlining CI/CD workflows, and implementing centralized monitoring solutions. Adept at problem-solving, performance optimization, and delivering secure, scalable, and reliable IT solutions. Passionate about continuous improvement and leveraging modern technologies to drive innovation and efficiency.</h3>
+<h4 align="center">Highly motivated Cloud DevOps Engineer with 3 years of experience in designing, automating, and optimizing cloud infrastructure and deployment pipelines. Skilled in Cloud Computing, Containerization, Orchestration, CI/CD, Monitoring & Observability, Networking, and Virtualization. Proven track record in managing cloud platforms, streamlining CI/CD workflows, and implementing centralized monitoring solutions. Adept at problem-solving, performance optimization, and delivering secure, scalable, and reliable IT solutions. Passionate about continuous improvement and leveraging modern technologies to drive innovation and efficiency.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnurhidayat&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadnurhidayat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnurhidayat&label=Profile%20views&color=0e75b6&4tyle=flat" alt="ahmadnurhidayat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadnurhidayat" alt="ahmadnurhidayat" /></a> </p>
 
