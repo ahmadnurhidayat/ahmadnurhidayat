@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Nurhidayat</h1>
-<h3 align="center">A passionate Cloud Devops Engineer from Indonesia</h3>
+<h3 align="center">Highly motivated Cloud DevOps Engineer with 3 years of experience in designing, automating, and optimizing cloud infrastructure and deployment pipelines. Skilled in Cloud Computing, Containerization, Orchestration, CI/CD, Monitoring & Observability, Networking, and Virtualization. Proven track record in managing cloud platforms, streamlining CI/CD workflows, and implementing centralized monitoring solutions. Adept at problem-solving, performance optimization, and delivering secure, scalable, and reliable IT solutions. Passionate about continuous improvement and leveraging modern technologies to drive innovation and efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnurhidayat&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadnurhidayat" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nur26691](https://medium.com/@nur26691)
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **Cloud, Automation, DevOps**
 
 - 📫 How to reach me **nur26691@gmail.com**
 
