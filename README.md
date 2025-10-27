@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnurhidayat&label=Profile%20views&color=0e75b6&4tyle=flat" alt="ahmadnurhidayat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadnurhidayat" alt="ahmadnurhidayat" /></a> </p>
+<p align="left"> <a href="https://github.com/ahmadnurhidayat/ahmadnurhidayat"><img src="https://ahmadnurhidayat.github.io" alt="ahmadnurhidayat" /></a> </p>
 
 - 🔭 I’m currently working on **Global Loyalty Indonesia**
 
